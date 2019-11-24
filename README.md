@@ -55,14 +55,3 @@
 
 
 
-
-
-Mark as `validated` in the Tasking Manager.
-
-- [`highway`](#Off-road)
-- [`smoothness`](#Smoothness)
-- [`parking:lane:left/right/both`](#Parking)
-- [`shoulder:left/right/both`](#feature-Shoulder-not-signed-as-a-bike-lane)
-- [`cycleway`](#feature-Bi-directional-protected-cycletrack)
-- [`cycleway:buffer`](#feature-Buffered-bike-lane)
-
