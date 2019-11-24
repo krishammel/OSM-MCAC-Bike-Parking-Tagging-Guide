@@ -6,6 +6,7 @@
   <li><a href='#Parking-Attributes'>Bike Parking Attributes</a></li>
   <li><a href='#Parking-Types'>Bike Parking Types</a></li>
   <li><a href='#Parking-Capacity'>Bike Parking Capacity</a></li>
+  <li><a href='#Parking-Access'>Bike Parking Access</a></li>
 </ul>
 
 <h2 id="Parking-Attributes">Bike Parking Attributes</h2>
@@ -53,5 +54,10 @@
 |ground_slot|<img style='max-width:50px' src='img/parking/ground_slot.png'>|6|There are 6 slots that bike wheels can be put within|
 |bollard|<img style='max-width:50px' src='img/parking/ring_post.png'>|6|Two bikes can be connected to each of the 3 bollards|
 
+<h2 id="Parking-Access">Bike Parking Access</h2>
 
+|Value 	|Description |
+|customers|This access type is intended to be used to indicate that the parking is primarily available to customers visiting a business|
+|private|This access type is primarily to be used to indicate the use of the parking is limited to to the owner or visitors to the premise.  Ex: School, Place of Worship, etc...|
+ 
 
