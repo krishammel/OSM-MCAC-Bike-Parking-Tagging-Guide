@@ -11,6 +11,8 @@
 
 <h2 id="Parking-Attributes">Bike Parking Attributes</h2>
 
+The following typical tags applied to define bike parking attributes within OpenStreetMap.  For bike parking data collected as part of this project it is desired to record bicycle_parking and capacity attributes all entries.  Where access is more restricted on non-city properties it is desired to indicate the access type as customers or private where required.
+
 | Tag   | Description      |
 | ----- | ---------------- |
 | <a href="https://wiki.openstreetmap.org/wiki/Key:name">name</a>=* |	Larger areas of bike parking may be named.|
@@ -20,11 +22,12 @@
 | <a href="https://wiki.openstreetmap.org/wiki/Key:capacity">capacity</a>=* | 	The number of bikes that can be parked here. |
 | <a href="https://wiki.openstreetmap.org/wiki/Key:fee">fee</a>=* |	In some places, one must pay to park one's bike. |
 | <a href="https://wiki.openstreetmap.org/wiki/Key:bicycle_parking">bicycle_parking</a>=* | 	Details the type of bicycle parking (e.g. stands, wall loops...).|
-| <a href="https://wiki.openstreetmap.org/wiki/Key:cyclestreets_id">cyclestreets_id</a>=* | 	A link to the ID (e.g. 12345) of the location describing a photo of the cycle parking in CycleStreets. Multiple IDs should be separated by semi-colons. |
 | <a href="https://wiki.openstreetmap.org/wiki/Key:maxstay">maxstay</a>=* |	Maximum time the bicycle is allowed to be parked at that place - given sometimes at covered parking-places.|
 | <a href="https://wiki.openstreetmap.org/wiki/Key:surveillance">surveillance</a>=* |	Closed-circuit television (CCTV) security cameras can be marked with this. See the linked page for details of the values in use. Depending on the layout, a separate node nearby may be enough. |
 
 <h2 id="Parking-Types">Bike Parking Types</h2>
+
+The following are local examples of different types of bicycle_parking attributes within OpenStreetMap. 
 
 |Key 	|Value 	|Element 	|Comment 	|Photo |
 |--|--|--|--|--|
@@ -42,6 +45,8 @@
 
 <h2 id="Parking-Capacity">Bike Parking Capacity</h2>
 
+The following are examples illustrating expected capacity of different types of bicycle parking.  There is some leeway in how many bikes can be expected to fit, but capacity should be assumed to be how many standard bicycles can be assumed to reasonably fit.
+
 |Type 	|Photo |Capacity|Comment|
 |--|--|--|--|
 |stands|<img style='max-width:50px' src='img/parking/stands.png'>|8|Enough room to fit a bike on either side of each stand|
@@ -55,6 +60,8 @@
 |bollard|<img style='max-width:50px' src='img/parking/ring_post.png'>|6|Two bikes can be connected to each of the 3 bollards|
 
 <h2 id="Parking-Access">Bike Parking Access</h2>
+
+Access can be left blank for roadside parking that is assumed to be available to everyone within the city.  If usage should be restricted based on ownership the following attributes may be considered.
 
 |Value 	|Description |
 |--|--|
