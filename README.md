@@ -43,15 +43,15 @@
 
 |Type 	|Photo |Capacity|
 |--|--|--|
-|stands|<img style='min-width:300px;max-width:300px' src='img/parking/stands.png'>|8|
-|stands|<img style='min-width:300px;max-width:300px' src='img/parking/stands2.png'>|9|
-|stands|<img style='min-width:300px;max-width:300px' src='img/parking/hoop_stand.png'>|2|
-|wave|<img style='min-width:300px;max-width:300px' src='img/parking/wave.png'>|4|
-|wall_slot|<img style='min-width:300px;max-width:300px' src='img/parking/wall_slot.png'>|10|
-|wall_slot|<img style='min-width:300px;max-width:300px' src='img/parking/wall_slot2.png'>|6|
-|rack|<img style='min-width:300px;max-width:300px' src='img/parking/rack.png'>|5|
-|ground_slot|<img style='min-width:300px;max-width:300px' src='img/parking/ground_slot.png'>|6|
-|bollard|<img style='min-width:300px;max-width:300px' src='img/parking/ring_post.png'>|6|
+|stands|<img style='min-width:50px;max-width:50px' src='img/parking/stands.png'>|8|
+|stands|<img style='min-width:50px;max-width:50px' src='img/parking/stands2.png'>|9|
+|stands|<img style='min-width:50px;max-width:50px' src='img/parking/hoop_stand.png'>|2|
+|wave|<img style='min-width:50px;max-width:50px' src='img/parking/wave.png'>|4|
+|wall_slot|<img style='min-width:50px;max-width:50px' src='img/parking/wall_slot.png'>|10|
+|wall_slot|<img style='min-width:50px;max-width:50px' src='img/parking/wall_slot2.png'>|6|
+|rack|<img style='min-width:50px;max-width:50px' src='img/parking/rack.png'>|5|
+|ground_slot|<img style='min-width:50px;max-width:50px' src='img/parking/ground_slot.png'>|6|
+|bollard|<img style='min-width:50px;max-width:50px' src='img/parking/ring_post.png'>|6|
 
 
 
