@@ -44,7 +44,7 @@
 |Type 	|Photo |Capacity|Comment|
 |--|--|--|--|
 |stands|<img style='max-width:50px' src='img/parking/stands.png'>|8|Enough room to fit a bike on either side of each stand|
-|stands|<img style='max-width:50px' src='img/parking/stands2.png'>|9|Only enough room to fit one bike between each stand|
+|stands|<img style='max-width:50px' src='img/parking/stands2.png'>|9|Only enough room to fit one bike between each stand and a bike can be connected to either outside end|
 |stands|<img style='max-width:50px' src='img/parking/hoop_stand.png'>|2|One bike can be attached on either side of the stand|
 |wave|<img style='max-width:50px' src='img/parking/wave.png'>|4|Two bikes can been locked inside the wave and one bike can be attached each end of the wave|
 |wall_slot|<img style='max-width:50px' src='img/parking/wall_slot.png'>|10|There are 10 slots for bike wheels to be connected to|
