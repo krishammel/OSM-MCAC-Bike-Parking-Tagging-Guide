@@ -57,6 +57,7 @@
 <h2 id="Parking-Access">Bike Parking Access</h2>
 
 |Value 	|Description |
+|--|--|
 |customers|This access type is intended to be used to indicate that the parking is primarily available to customers visiting a business|
 |private|This access type is primarily to be used to indicate the use of the parking is limited to to the owner or visitors to the premise.  Ex: School, Place of Worship, etc...|
  
