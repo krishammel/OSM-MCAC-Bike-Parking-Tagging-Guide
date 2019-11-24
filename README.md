@@ -32,19 +32,28 @@
 |bicycle_parking | wall_loops |![node](img/node.png) ![area](img/area.png)  |Often scathingly referred to as "wheelbenders" by cyclists. Mostly attached to walls or fixed into the ground. Secures only the front wheel (or possibly back wheel), the front bit or lower bit. With application of force, the bike's wheels can be damaged. Low security. 	|<img style='min-width:300px;max-width:300px' src='img/parking/wall_slot.png'><img style='min-width:300px;max-width:300px' src='img/parking/wall_slot2.png'>|
 |bicycle_parking | rack |![node](img/node.png) ![area](img/area.png) | A rack is similar to a stand above, but typically larger and holds many more bikes. One type is a coathanger rack (pictured at right). An inferior type lacks side-support alltogether. In many cases difference between this bicycle parking type and bicycle_parking=stands or bicycle_parking=wall_loops is very small, with some mappers preferring to use this more specific type. |<img style='min-width:300px;max-width:300px' src='img/parking/rack.png'>|
 |bicycle_parking | anchors |![node](img/node.png) ![area](img/area.png)  | A mere anchor hammered into a wall, the ground, or boulders. Low security.| 	|
-|bicycle_parking | lockers |![node](img/node.png) ![area](img/area.png)  |Parking takes the form of lockers which enclose bicycles fully and individually, typically secured with some form of key or combination system. Good security. Often used at train stations. |Bicycle Lockers. At Dunfermline Town Railway Station.|
-|bicycle_parking | wide_stands |![node](img/node.png) ![area](img/area.png)  | A superior type of stand with a wide bent piece of metal against which you can lean your entire bicycle. It's wider than the stand described above : one can park bicycles on each side without handlebars standing in the way. It's usually longer than the regular stand. As there are two pieces of metal, there's more room to lock the bicycle. Note that this tag value appeared relatively recently and many people continue to use bicycle_parking=stands also for this type of stand. |Wide stands (called "paperclips" in France)|
-|bicycle_parking | shed | ![node](img/node.png) ![area](img/area.png)   | A custom-built closed shed in which many bikes can be stored, possibly with individual stands inside. Good security. Use supervised=* to indicate whether bikes are guarded. Alternatively, you can tag it with covered=yes and set the value of bicycle_parking=* to the type of bicycle parking that is inside. | 	Enclosed, lockable bicycle shelter. Banyo, QLD, Australia.|
+|bicycle_parking | lockers |![node](img/node.png) ![area](img/area.png)  |Parking takes the form of lockers which enclose bicycles fully and individually, typically secured with some form of key or combination system. Good security. Often used at train stations. ||
+|bicycle_parking | shed | ![node](img/node.png) ![area](img/area.png)   | A custom-built closed shed in which many bikes can be stored, possibly with individual stands inside. Good security. Use supervised=* to indicate whether bikes are guarded. Alternatively, you can tag it with covered=yes and set the value of bicycle_parking=* to the type of bicycle parking that is inside. ||
 |bicycle_parking | bollard |![node](img/node.png) ![area](img/area.png)  |A special kind of bollard designed for bike locking. Generally, the bike is locked to the central pole and "arms" of some sort prevent thieves from simply lifting the bike over the pole. If it doubles as a barrier, add barrier=bollard. |<img style='min-width:300px;max-width:300px' src='img/parking/ring_post.png'>|
 |bicycle_parking | ground_slots |![node](img/node.png) ![area](img/area.png)  | Slots in the ground for a wheel. No security. |<img style='min-width:300px;max-width:300px' src='img/parking/ground_slot.png'>|
-|bicycle_parking | building | nodearea | Like shed above, but with a proper building, which means that bicycles are protected from wind, heavy rain etc. Good security. Use supervised=* to indicate whether bikes are guarded. Use opening_hours=* if applicable. Alternatively, if the bicycle parking is not part of another building, you can tag it with building=yes and set the value of bicycle_parking=* to the type of bicycle parking that is inside. |Inside the Radstation in Münster.|
+|bicycle_parking | building |![node](img/node.png) ![area](img/area.png)   | Like shed above, but with a proper building, which means that bicycles are protected from wind, heavy rain etc. Good security. Use supervised=* to indicate whether bikes are guarded. Use opening_hours=* if applicable. Alternatively, if the bicycle parking is not part of another building, you can tag it with building=yes and set the value of bicycle_parking=* to the type of bicycle parking that is inside. ||
 
 
 <h2 id="Parking-Capacity">Bike Parking Capacity</h2>
 
 |Type 	|Photo |Capacity|
 |--|--|--|
-|rack|photo here|4|
+|stands|<img style='min-width:300px;max-width:300px' src='img/parking/stands.png'>|8|
+|stands|<img style='min-width:300px;max-width:300px' src='img/parking/stands2.png'>|9|
+|stands|<img style='min-width:300px;max-width:300px' src='img/parking/hoop_stand.png'>|2|
+|wave|<img style='min-width:300px;max-width:300px' src='img/parking/wave.png'>|4|
+|wall_slot|<img style='min-width:300px;max-width:300px' src='img/parking/wall_slot.png'>|10|
+|wall_slot|<img style='min-width:300px;max-width:300px' src='img/parking/wall_slot2.png'>|6|
+|rack|<img style='min-width:300px;max-width:300px' src='img/parking/rack.png'>|5|
+|ground_slot|<img style='min-width:300px;max-width:300px' src='img/parking/ground_slot.png'>|6|
+|bollard|<img style='min-width:300px;max-width:300px' src='img/parking/ring_post.png'>|6|
+
+
 
 
 
